@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gestion du projet</string>
+    <string name="open">Ouvrir le menu</string>
+    <string name="close">Fermer le menu</string>
+    <string name="nav_ajouter">Ajouter un produit</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="supprimer_produit">Voulez-vous vraiment supprimer ce produit ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+</resources>
